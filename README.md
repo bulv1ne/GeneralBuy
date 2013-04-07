@@ -1,4 +1,4 @@
 GeneralBuy
 ==========
 
-LAN Store for pizza in Bottle and MongoDB
+LAN-Party store for pizza in Bottle and MongoDB.
